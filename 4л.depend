@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1589480268 source:c:\users\Вероника\desktop\лабы\4л\main.cpp
+	<iostream>
+	"DynamicArray.h"
+
+1589480128 c:\users\Вероника\desktop\лабы\4л\dynamicarray.h
+	<iostream>
+	<cassert>
+
+1589472174 source:c:\users\Вероника\desktop\лабы\4л\dynamicarray.cpp
+	"DynamicArray.h"
+
+1589472174 source:c:\users\Вероника\desktop\лабы\4л - копия\dynamicarray.cpp
+	"DynamicArray.h"
+
+1589485746 c:\users\Вероника\desktop\лабы\4л - копия\dynamicarray.h
+	<iostream>
+	<algorithm>
+
+1589484212 source:c:\users\Вероника\desktop\лабы\4л - копия\main.cpp
+	<iostream>
+	"DynamicArray.h"
+
