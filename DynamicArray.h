@@ -8,7 +8,7 @@ template<typename T>
 
 class DynamicArray {
 private:
-    int countel;  //количество элементов массива
+    int countel;  //РєРѕР»РёС‡РµСЃС‚РІРѕ СЌР»РµРјРµРЅС‚РѕРІ РјР°СЃСЃРёРІР°
     T *p;
 public:
     DynamicArray();
